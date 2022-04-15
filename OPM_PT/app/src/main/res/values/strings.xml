@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">One Punch Man Trainer</string>
+    <string name="shared_file_key">shared file key</string>
+    <string name="first_time">first time?</string>
+    <string name="male_or_fem">male or fem?</string>
+    <string name="haircolor_chosen">Chosen haircolor</string>
+    <string name="hair_percent">Latest hairpercent</string>
+    <string name="last_day">Last day</string>
+    <string name="last_month">Last month</string>
+    <string name="last_year">Last year</string>
+    <string name="completed_running">Completed running</string>
+    <string name="completed_pushups">Completed pushups</string>
+    <string name="completed_squats">Completed squats</string>
+    <string name="completed_situps">Completed situps</string>
+    <string name="first_time_training">First time in training activity</string>
+    <string name="help_dialog_text">Click on your avatar in order to change haircolor or gender.
+        \n\nClick on one of the exercise-buttons to start exercising.
+        \n\nThe completed exercises will have green buttons.
+        \n\nYour result will be measured in hairloss.
+        \n\nThe only way to become stronger is to train until your hair falls off..</string>
+    <string name="ok">Got it!</string>
+    <string name="permission_accelerometer">This app needs the accelerometer in your phone to
+        measure steps, squats and sit-ups. Without it there is no way to measure your result or
+        see your progress.
+        \n\nIf you can no longer allow access through the app you can change it if you go to:
+        Settings > Applications > One Punch Man Trainer > Permissions</string>
+    <string name="ok_2">Okay</string>
+    <string name="start_help">In this app you will go through the same training as One Punch Man.
+        \nIf you are new to training be careful not to over exert or strain yourself.
+    \nMake sure to eat at least three meals per day (a banana for breakfast is fine).
+    \n\nGood luck!</string>
+    <string name="character_help">Before you start training you need to create an avatar.
+    You can always change your avatar later.</string>
+    <string name="running_guide">The step counter is set to only record big movements. Therefore it
+        might not give an accurate result if you are just walking. Make sure to run in order
+    for the sensor to work properly.\n\nGood luck!</string>
+    <string name="pushup_guide">Keep your back as straight as possible and touch your nose on the
+    screen on the way down.\n\nGood luck!</string>
+    <string name="squat_guide">Make sure to have proper form (look at the example) and do the squats
+    nice and slow. That way you will get the most out of your training as well as a more accurate
+    reading.\n\nGood luck!</string>
+    <string name="situp_guide">Make sure to have proper form (look at the example) and do the
+        sit-upsnice and slow. That way you will get the most out of your training as well as a more
+        accurate reading.\n\nGood luck!</string>
+    <string name="exercise_type">The specific exercise.</string>
+    <string name="same_date">Is this the same date?</string>
+    <string name="running_count">This is the running count</string>
+    <string name="pushup_count">This is the pushup count</string>
+    <string name="squat_count">This is the squat count</string>
+    <string name="situp_count">This is the situp count</string>
+    <string name="from_training">The intent came from the training activity</string>
+</resources>
