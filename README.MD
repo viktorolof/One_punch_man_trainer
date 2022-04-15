@@ -5,6 +5,6 @@ This is an android app that allows you to follow the same training schedule as O
 Install the APK on your phone and the app is good to go. 
 If you want to build the apk yourself you can clone the repository and import the sourcecode to an IDE capable of creating APKs such as Android studio.
 
-![Saitama](saitama_4.png =250x)
+![Saitama](saitama_4.png =100x20)
 Good luck! // saitama
 
